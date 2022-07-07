@@ -1,0 +1,42 @@
+:root {
+	/**Home page*/
+	--dark: #4b4b4b;
+	--gray: #505c74;
+	--middle-gray: #aeb3bf;
+	--light-gray: #eeeeee;
+	--white: #fefefe;
+	--dark-blue: #2963ad;
+	--blue: #007bfc;
+	--middle-blue: #2E94FF;
+	--light-blue: #64b6fa;
+
+	--text-80: 8rem;
+	--text-45: 4.5rem;
+	--text-42: 4.2rem;
+	--text-40: 4rem;
+	--text-38: 3.8rem;
+	--text-36: 3.6rem;
+	--text-35: 3.5rem;
+	--text-32: 3.2rem;
+	--text-30: 3rem;
+	--text-28: 2.8rem;
+	--text-25: 2.5rem;
+	--text-24: 2.4rem;
+	--text-22: 2.2rem;
+	--text-20: 2rem;
+	--text-18: 1.8rem;
+	--text-17: 1.7rem;
+	--text-16: 1.6rem;
+	--text-15: 1.5rem;
+	--text-14: 1.4rem;
+	--text-13: 1.3rem;
+	--text-12: 1.2rem;
+
+	/**Academ*/
+	--gold: #cc9964;
+	--dark-green: #00212d;
+
+	--light-gold: #fff9d0;
+	--middle-gold: #e4cda1;
+	--pink: #f6d6b9;
+}
